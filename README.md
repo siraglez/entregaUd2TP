@@ -1,4 +1,4 @@
-https://github.com/siraglez/entregaUd3TP.git
+https://github.com/siraglez/entregaUd2TP.git
 
 # 1. Análisis de Datos en IA - Transformación y Visualización de Variables
 
